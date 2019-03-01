@@ -1,2 +1,2 @@
 # find-regular-image
-Find regular pattern on image
+Locate vertical strip on image with high periodic structure. For example vertical row of windows
